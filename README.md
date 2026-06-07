@@ -1,7 +1,12 @@
 Laporan Perancangan Finite State Machine (FSM) Lampu Lalu Lintas
+
 Farell Edward Surya muler 25032014039
+
 M Sakha Valencia Widianto 25032014090
+
 Gilbert Sande Pabida 25032014043
+
+LInk video: https://www.youtube.com/watch?v=GB4YWVHrWwE
 
 1. Asumsi Sistem dan Siklus Transisi
 Sistem ini dirancang untuk mengatur persimpangan empat arah dengan asumsi:
