@@ -1,10 +1,10 @@
 Laporan Perancangan Finite State Machine (FSM) Lampu Lalu Lintas
 
-Farell Edward Surya muler 25032014039
+Farell Edward Surya muler 
 
-M Sakha Valencia Widianto 25032014090
+M Sakha Valencia Widianto 
 
-Gilbert Sande Pabida 25032014043
+Gilbert Sande Pabida 
 
 LInk video: https://www.youtube.com/watch?v=GB4YWVHrWwE
 
